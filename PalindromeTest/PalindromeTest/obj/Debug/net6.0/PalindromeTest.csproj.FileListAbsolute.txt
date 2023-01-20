@@ -1,0 +1,15 @@
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\bin\Debug\net6.0\PalindromeTest.exe
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\bin\Debug\net6.0\PalindromeTest.deps.json
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\bin\Debug\net6.0\PalindromeTest.runtimeconfig.json
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\bin\Debug\net6.0\PalindromeTest.dll
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\bin\Debug\net6.0\PalindromeTest.pdb
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\obj\Debug\net6.0\PalindromeTest.csproj.AssemblyReference.cache
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\obj\Debug\net6.0\PalindromeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\obj\Debug\net6.0\PalindromeTest.AssemblyInfoInputs.cache
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\obj\Debug\net6.0\PalindromeTest.AssemblyInfo.cs
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\obj\Debug\net6.0\PalindromeTest.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\obj\Debug\net6.0\PalindromeTest.dll
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\obj\Debug\net6.0\refint\PalindromeTest.dll
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\obj\Debug\net6.0\PalindromeTest.pdb
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\obj\Debug\net6.0\PalindromeTest.genruntimeconfig.cache
+C:\Users\Mariusz\source\repos\PalindromeTest\PalindromeTest\obj\Debug\net6.0\ref\PalindromeTest.dll
