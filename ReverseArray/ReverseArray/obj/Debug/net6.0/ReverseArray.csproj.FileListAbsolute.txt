@@ -1,0 +1,30 @@
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.exe
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.deps.json
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.runtimeconfig.json
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.dll
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.pdb
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.csproj.AssemblyReference.cache
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.AssemblyInfo.cs
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.dll
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\obj\Debug\net6.0\refint\ReverseArray.dll
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.pdb
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.genruntimeconfig.cache
+C:\Users\Mariusz\source\repos\ReverseArray\ReverseArray\obj\Debug\net6.0\ref\ReverseArray.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.exe
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.deps.json
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.runtimeconfig.json
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.pdb
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.csproj.AssemblyReference.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.AssemblyInfo.cs
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\obj\Debug\net6.0\refint\ReverseArray.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.pdb
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.genruntimeconfig.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\ReverseArray\ReverseArray\obj\Debug\net6.0\ref\ReverseArray.dll
