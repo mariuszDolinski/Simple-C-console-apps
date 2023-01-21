@@ -1,0 +1,15 @@
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\bin\Debug\net6.0\DigitsCounter.exe
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\bin\Debug\net6.0\DigitsCounter.deps.json
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\bin\Debug\net6.0\DigitsCounter.runtimeconfig.json
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\bin\Debug\net6.0\DigitsCounter.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\bin\Debug\net6.0\DigitsCounter.pdb
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\obj\Debug\net6.0\DigitsCounter.csproj.AssemblyReference.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\obj\Debug\net6.0\DigitsCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\obj\Debug\net6.0\DigitsCounter.AssemblyInfoInputs.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\obj\Debug\net6.0\DigitsCounter.AssemblyInfo.cs
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\obj\Debug\net6.0\DigitsCounter.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\obj\Debug\net6.0\DigitsCounter.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\obj\Debug\net6.0\refint\DigitsCounter.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\obj\Debug\net6.0\DigitsCounter.pdb
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\obj\Debug\net6.0\DigitsCounter.genruntimeconfig.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitsCounter\DigitsCounter\obj\Debug\net6.0\ref\DigitsCounter.dll
