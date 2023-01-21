@@ -1,5 +1,5 @@
 # Simple-C-console-apps
-This is a colection of simple console apps in C# for recrutation purpose. Validation of data not included.
+This is a collection of simple console apps in C# for recrutation purpose. Validation of data not included.
 
 1. ReverseArray - Write given array in reverse order
 2. PalindromeTest - Give annswer if given string is a palindrome (characters other than letter are not considered)
