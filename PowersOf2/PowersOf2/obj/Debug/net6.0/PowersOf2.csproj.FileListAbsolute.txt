@@ -1,0 +1,15 @@
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\bin\Debug\net6.0\PowersOf2.exe
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\bin\Debug\net6.0\PowersOf2.deps.json
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\bin\Debug\net6.0\PowersOf2.runtimeconfig.json
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\bin\Debug\net6.0\PowersOf2.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\bin\Debug\net6.0\PowersOf2.pdb
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\obj\Debug\net6.0\PowersOf2.csproj.AssemblyReference.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\obj\Debug\net6.0\PowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\obj\Debug\net6.0\PowersOf2.AssemblyInfoInputs.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\obj\Debug\net6.0\PowersOf2.AssemblyInfo.cs
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\obj\Debug\net6.0\PowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\obj\Debug\net6.0\PowersOf2.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\obj\Debug\net6.0\refint\PowersOf2.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\obj\Debug\net6.0\PowersOf2.pdb
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\obj\Debug\net6.0\PowersOf2.genruntimeconfig.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\PowersOf2\PowersOf2\obj\Debug\net6.0\ref\PowersOf2.dll
