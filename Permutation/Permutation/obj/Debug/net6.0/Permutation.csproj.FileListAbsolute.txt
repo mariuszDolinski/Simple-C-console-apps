@@ -1,0 +1,15 @@
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\bin\Debug\net6.0\Permutation.exe
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\bin\Debug\net6.0\Permutation.deps.json
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\bin\Debug\net6.0\Permutation.runtimeconfig.json
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\bin\Debug\net6.0\Permutation.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\bin\Debug\net6.0\Permutation.pdb
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\obj\Debug\net6.0\Permutation.csproj.AssemblyReference.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\obj\Debug\net6.0\Permutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\obj\Debug\net6.0\Permutation.AssemblyInfoInputs.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\obj\Debug\net6.0\Permutation.AssemblyInfo.cs
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\obj\Debug\net6.0\Permutation.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\obj\Debug\net6.0\Permutation.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\obj\Debug\net6.0\refint\Permutation.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\obj\Debug\net6.0\Permutation.pdb
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\obj\Debug\net6.0\Permutation.genruntimeconfig.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\Permutation\Permutation\obj\Debug\net6.0\ref\Permutation.dll
