@@ -1,0 +1,15 @@
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\bin\Debug\net6.0\DigitSum.exe
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\bin\Debug\net6.0\DigitSum.deps.json
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\bin\Debug\net6.0\DigitSum.runtimeconfig.json
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\bin\Debug\net6.0\DigitSum.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\bin\Debug\net6.0\DigitSum.pdb
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\obj\Debug\net6.0\DigitSum.csproj.AssemblyReference.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\obj\Debug\net6.0\DigitSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\obj\Debug\net6.0\DigitSum.AssemblyInfoInputs.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\obj\Debug\net6.0\DigitSum.AssemblyInfo.cs
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\obj\Debug\net6.0\DigitSum.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\obj\Debug\net6.0\DigitSum.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\obj\Debug\net6.0\refint\DigitSum.dll
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\obj\Debug\net6.0\DigitSum.pdb
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\obj\Debug\net6.0\DigitSum.genruntimeconfig.cache
+C:\Users\Mariusz\OneDrive\Dokumenty\Visual Studio 2022\Projects\DigitSum\DigitSum\obj\Debug\net6.0\ref\DigitSum.dll
